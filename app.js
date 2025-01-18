@@ -17,5 +17,5 @@ setInterval(() => {
 
 // console.log(typeof require)
 // console.log(typeof module.exports)
-console.log(firstname)
+console.log(lastname)
 
