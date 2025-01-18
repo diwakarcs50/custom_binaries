@@ -3,7 +3,7 @@
 // console.dir(process); 
 // ls -l
 setInterval(() => {
-    console.log('Hello, I am Diwakar.');
+    console.log('Hello world, I am Diwakar.');
     new Date().toLocaleString(
         'en-US',
         {
